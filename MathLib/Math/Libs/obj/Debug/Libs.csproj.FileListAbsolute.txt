@@ -1,0 +1,6 @@
+D:\新建文件夹\CSharp-Howework\MathLib\Math\Libs\bin\Debug\Libs.dll
+D:\新建文件夹\CSharp-Howework\MathLib\Math\Libs\bin\Debug\Libs.pdb
+D:\新建文件夹\CSharp-Howework\MathLib\Math\Libs\obj\Debug\Libs.csprojResolveAssemblyReference.cache
+D:\新建文件夹\CSharp-Howework\MathLib\Math\Libs\obj\Debug\Libs.csproj.CoreCompileInputs.cache
+D:\新建文件夹\CSharp-Howework\MathLib\Math\Libs\obj\Debug\Libs.dll
+D:\新建文件夹\CSharp-Howework\MathLib\Math\Libs\obj\Debug\Libs.pdb
